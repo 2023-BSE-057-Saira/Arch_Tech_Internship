@@ -1,0 +1,10 @@
+Best model: Linear SVM
+
+              precision    recall  f1-score   support
+
+    Not Spam       0.99      0.99      0.99      7908
+        Spam       0.99      0.99      0.99      8782
+
+    accuracy                           0.99     16690
+   macro avg       0.99      0.99      0.99     16690
+weighted avg       0.99      0.99      0.99     16690
