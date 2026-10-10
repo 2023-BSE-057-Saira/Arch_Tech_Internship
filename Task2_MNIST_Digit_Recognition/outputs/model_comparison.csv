@@ -1,0 +1,6 @@
+Model,Accuracy,F1 (macro),Train Time (s)
+SVM RBF (PCA-50),0.9868,0.9867,40.7
+Neural Network (MLP),0.9775,0.9774,48.6
+KNN (PCA-50),0.9752,0.975,1.0
+Random Forest,0.9704,0.9702,9.8
+Logistic Regression,0.9256,0.9245,26.7
